@@ -3,9 +3,9 @@ local t = {}
 t._callbacks = {'onCreatePost',"onUpdatePost"}
 
 t.version = "0.0.7.4"
-t.versionURL = ""
-t.latestDownloadURL = ""
-t.changelogURL = ""
+t.versionURL = "https://raw.githubusercontent.com/Yumecoded/PEOparty-helper/refs/heads/download/version.txt"
+t.latestDownloadURL = "https://raw.githubusercontent.com/Yumecoded/PEOparty-helper/refs/heads/download/latest.zip"
+t.changelogURL = "https://raw.githubusercontent.com/Yumecoded/PEOparty-helper/refs/heads/download/server%20changelog.txt"
 t.updateAvailable = false
 t.checkUpdateFinished = false
 t.unreadChanges = false
