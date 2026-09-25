@@ -1,0 +1,14 @@
+25.09.2026
+Version 0.0.7.4
+- [onlinevs] fixed being able to spectate in picking phase
+- [onlinevs] erect remixes are no longer allowed
+- [onlinevs] fixed not being able to pick character mixes
+- [onlinevs] fixed match not ending when everyone exits to lobby
+- [client scripts] fixed spectator desync when starting the song at the same time with players
+- /badapple can no longer be used mid-song
+- bad apple now gets disabled for every player on song start
+- fixed being able to change song/mod while verifying scripts
+- optimized bad apple by reducing framerate if multiple players run it
+- limited bad apple to 4 players
+- fixed the song starting for spectators before players
+- introduced the server helper to replace server switcher
